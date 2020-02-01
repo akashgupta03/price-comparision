@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="245113a8-4012-43bb-acaa-249809a045d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SC0OfQQrG36uEXcTgRwFEoX9Ba" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testCases" />
+      <recent name="utils" />
+      <recent name="testBase" />
+      <recent name="pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/pages" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.VerifyPriceComparisionOnAmazonAndFlipkart.verifyGetIphonePriceFromFlipkart">
+    <configuration name="VerifyPriceComparisionOnAmazonAndFlipkart.verifyGetIphonePriceFromAmazon" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="price-comparision.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.VerifyPriceComparisionOnAmazonAndFlipkart" />
+      <option name="METHOD_NAME" value="verifyGetIphonePriceFromAmazon" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -DdriverEnvironment=local   -Denv=production -Ddriver=chrome" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyPriceComparisionOnAmazonAndFlipkart.verifyGetIphonePriceFromFlipkart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="price-comparision.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.VerifyPriceComparisionOnAmazonAndFlipkart" />
+      <option name="METHOD_NAME" value="verifyGetIphonePriceFromFlipkart" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -DdriverEnvironment=local   -Denv=production -Ddriver=chrome" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="VM_PARAMETERS" value="-ea -DdriverEnvironment=local   -Denv=production -Ddriver=chrome" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.VerifyPriceComparisionOnAmazonAndFlipkart.verifyGetIphonePriceFromFlipkart" />
+        <item itemvalue="TestNG.VerifyPriceComparisionOnAmazonAndFlipkart.verifyGetIphonePriceFromAmazon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="245113a8-4012-43bb-acaa-249809a045d3" name="Default Changelist" comment="" />
+      <created>1571052239739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571052239739</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580533853213">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1580533853213" />
+    <state x="572" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580529405449">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="572" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1580529405449" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580533298717">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1580533298717" />
+    <state width="1398" height="278" key="GridCell.Tab.0.bottom" timestamp="1580535954767">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="278" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580535954767" />
+    <state width="1398" height="278" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1580535505789" />
+    <state width="1398" height="278" key="GridCell.Tab.0.center" timestamp="1580535954765">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="278" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580535954765" />
+    <state width="1398" height="278" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1580535505787" />
+    <state width="1398" height="278" key="GridCell.Tab.0.left" timestamp="1580535954764">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="278" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580535954764" />
+    <state width="1398" height="278" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1580535505786" />
+    <state width="1398" height="278" key="GridCell.Tab.0.right" timestamp="1580535954766">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="278" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580535954766" />
+    <state width="1398" height="278" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1580535505788" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1580529368976">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580529368976" />
+    <state width="563" height="551" key="SwitcherDM" timestamp="1580536182646">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="563" height="551" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1580536182646" />
+    <state width="500" height="445" key="SwitcherDM/0.23.1280.728@0.23.1280.728" timestamp="1578054403658" />
+  </component>
+</project>
